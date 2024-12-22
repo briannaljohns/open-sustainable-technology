@@ -56,6 +56,7 @@
   - [Biomass](#biomass)
   - [Biodiversity Analysis and Metrics](#biodiversity-analysis-and-metrics)
   - [Biodiversity Citizen Science](#biodiversity-citizen-science)
+  - [Open Source Hardware for Biodiversity Monitoring](#open-source-hardware-for-biodiversity-monitoring)
   - [Biodiversity Data Access and Management](#biodiversity-data-access-and-management)
   - [Biodiversity Data Cleaning and Standardization](#biodiversity-data-cleaning-and-standardization)
   - [Conservation and Restoration](#conservation-and-restoration)
@@ -1147,6 +1148,9 @@ energy system designs and analysis of interactions between technologies.
 - [Naturblick iOS](https://github.com/MfN-Berlin/naturblick-ios) - Identify plants and animals and learn more about nature in your city.
 - [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
 - [Arena](https://github.com/openforis/arena) - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
+
+### Open Source Hardware for Biodiversity Monitoring
+- [The Mothbox Project](https://github.com/Digital-Naturalism-Laboratories/Mothbox) - The Mothbox is a low-cost, open source and high-performance insect monitor. It features a power-efficient and lightweight design to help field biologists deploy it in the depths of the jungles.
 
 ### Biodiversity Data Access and Management
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
